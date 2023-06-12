@@ -1,0 +1,27 @@
+
+.content_img{
+    position: absolute;
+    width: 20vw;
+    height: 2000px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.content_hl{
+    position: relative;
+    font-size: 5vw;
+    font-weight: bold;
+    margin: 100px 0 0 19vw;
+}
+
+.content_text{
+    margin: 50px 25vw;
+    padding: 25px;
+    background-color: white;
+
+}
+
+#clouds {
+    background-image: url(images/clouds.jpg);
+}

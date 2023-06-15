@@ -22,3 +22,19 @@
 
 }
 
+.intext_a {
+    text-decoration: none;
+    color: rgb(103, 199, 130);
+    font-weight: bold;
+}
+
+.intext_hl{
+    margin: 0px 0px 5px 30px;
+}
+
+.hl_div{
+    width: 80%;
+    height: 2px;
+    background-color: rgb(39, 39, 39);
+    margin-left: 26px;
+}

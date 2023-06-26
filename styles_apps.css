@@ -1,0 +1,73 @@
+#flex_water {
+    background-color: white;
+    width: 100%;
+}
+
+.dropdown_button_apps {
+    width: 220px;
+    height: 70px;
+    background-color:var(--navbar-bg);
+
+    margin: 5px 5vw 0px 5vw;
+    text-align: center;
+    font-size: 22px;
+    color: white;
+
+    border: none;
+    border-radius: 3px;
+}
+
+.button_text_div_apps {
+    display: none;
+    margin: 0px 5vw 5px 5vw;
+
+    width: 60vw;
+    padding: 30px;
+
+    color: var(--navbar-bg);
+    text-align: justify;
+
+    background-color: rgb(247, 247, 247);
+}
+
+.dropdown_text_ul {
+    line-height: 1.5;
+    margin-left: 20px;
+    /* list-style-position: inside; */
+}
+
+.dropdown_text_ul li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+
+
+.text_div_apps{
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+    font-size: 20px;
+    padding: 0 0 0 3vw;
+    text-align: justify;
+}
+
+.tiny_text_div{
+    width: 31vw;
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+}
+
+.tiny_text{
+    margin: 5vw 6vw 5vw 6vw;
+    background-image: url(images/texture_1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    padding: 30px;
+    border-radius: 10px;
+
+    font-size: 17px;
+    font-weight: 500;
+    color: var(--navbar-bg);
+
+    box-shadow: 1px 1px 8px black;
+}

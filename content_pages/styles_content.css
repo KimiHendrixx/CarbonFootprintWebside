@@ -8,12 +8,6 @@
     background-attachment: fixed;
 }
 
-.content_hl{
-    position: relative;
-    font-size: 5vw;
-    font-weight: bold;
-    margin: 100px 0 0 19vw;
-}
 
 .content_text{
     margin: 50px 25vw;
@@ -38,3 +32,4 @@
     background-color: rgb(39, 39, 39);
     margin-left: 26px;
 }
+

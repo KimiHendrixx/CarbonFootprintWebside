@@ -1,7 +1,7 @@
 /* VARIABLES */
 :root {
     --navbar-bg: rgb(31, 31, 31);
-    --hover-color: rgb(203, 255, 209);
+    --hover-color: rgb(183, 234, 189);
     --border-link: rgb(134, 192, 134);
 }
 
@@ -19,10 +19,22 @@ a{
     font-style: none;
 }
 
+p{
+    font-family: 'Ysabeau Infant';
+}
+
+h1{
+    font-family: 'Bebas Neue';
+}
+
 /* FONTS */
 .headline_font{
     font-family: 'Bebas Neue';
     font-size: 45px;
+}
+
+.lit_font{
+    font-family: 'Bebas Neue';
 }
 
 
@@ -204,6 +216,7 @@ header label {
 .headline_div {
     height: auto;
     display: flex;
+    font-family: 'Bebas Neue';
 }
 
 .headline_image {
@@ -237,8 +250,11 @@ header label {
     width: 60vw;
     text-align: justify;
     margin: 10px 0px 50px 30px;
+
     font-size: 20px;
     font-family: 'Ysabeau Infant';
+
+    line-height: 160%;
 }
 
 
@@ -253,7 +269,11 @@ header label {
     width: 60vw;
     text-align: justify;
     margin: 30px 0px 30px 30px;
+
     font-size: 20px;
+    font-family: 'Ysabeau Infant';
+
+    line-height: 160%;
 }
 
 .text_div_no_hl {
@@ -297,11 +317,12 @@ header label {
 
     margin: 5px 5vw 0px 5vw;
     text-align: center;
-    font-size: 22px;
+    font-size: 25px;
     color: white;
 
     border: none;
     border-radius: 3px;
+    font-family: 'Bebas Neue';
 }
 
 .dropdown_div{

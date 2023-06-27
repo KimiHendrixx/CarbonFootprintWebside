@@ -28,3 +28,17 @@
 hr{
     margin-bottom: 20px;
 }
+
+h2{
+    font-family: 'Bebas Neue';
+    font-size: 30px;
+}
+
+p{
+    font-family: 'Ysabeau Infant';
+    line-height: 160%;
+}
+
+#toolbox_text{
+    font-size: 17px;
+}
